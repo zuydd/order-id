@@ -1,0 +1,16 @@
+{
+  "name": "order-id",
+  "version": "0.0.1",
+  "description": "Tool tự động sắp xếp lại user data theo id telegram",
+  "type": "module",
+  "main": "src/run/index.js",
+  "scripts": {
+    "start": "node src/run/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "ZuyDD",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {}
+}
